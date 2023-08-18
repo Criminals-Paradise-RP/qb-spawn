@@ -2,7 +2,7 @@ QB = {}
 
 QB.Spawns = {
     ["legion"] = {
-        coords = vector4(123.29, -877.71, 31.12, 256.69),
+        coords = vector4(161.4, -963.98, 30.66, 34.8),
         location = "legion",
         label = "Legion Square",
     },
@@ -13,39 +13,46 @@ QB.Spawns = {
         label = "LS Police",
     },
 
-    ["bcso"] = {
-        coords = vector4(1836.64, 3671.91, 34.15, 213.38),
-        location = "bcso",
-        label = "Sandy Police",
-    },
-
-    ["ranger"] = {
-        coords = vector4(392.17, 789.68, 187.67, 124.49),
-        location = "ranger",
-        label = "Park Ranger",
-    },
-
     ["statepolice"] = {
         coords = vector4(1533.48, 820.68, 77.5, 51.49),
         location = "statepolice",
         label = "State Police",
     },
 
-    ["casino"] = {
-        coords = vector4(920.28, 41.22, 81.1, 68.3),
-        location = "casino",
-        label = "Casino",
+    ["lsjc"] = {
+        coords = vector4(-239.42, -909.88, 32.31, 188.59),
+        location = "lsjc",
+        label = "Job Center",
     },
 
-    ["firehq"] = {
-        coords = vector4(-662.09, -75.91, 38.56, 7.99),
-        location = "firehq",
-        label = "Fire HQ",
+    ["ssmedical"] = {
+        coords = vector4(1682.29, 3646.37, 35.5, 267.76),
+        location = "ssmedical",
+        label = "Sandy Hospital",
     },
 
-    ["mtzonah"] = {
-        coords = vector4(-441.17, -361.4, 33.39, 130.05),
-        location = "mtzonah",
-        label = "Mt Zonah",
+    ["hunting"] = {
+        coords = vector4(-760.32, 5588.68, 36.71, 229.59),
+        location = "hunting",
+        label = "Hunting Shop",
     },
+
+    ["airport"] = {
+        coords = vector4(-760.32, 5588.68, 36.71, 229.59),
+        location = "airport",
+        label = "LS Airport",
+    },
+
+    ["pier"] = {
+        coords = vector4(-1856.52, -1230.81, 13.02, 299.57),
+        location = "pier",
+        label = "Del Perro Pier",
+    },
+
+    ["courthouse"] = {
+        coords = vector4(-557.36, -193.03, 38.23, 233.88),
+        location = "courthouse",
+        label = "City Hall",
+    },
+
 }
