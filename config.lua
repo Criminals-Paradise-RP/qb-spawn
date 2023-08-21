@@ -38,7 +38,7 @@ QB.Spawns = {
     },
 
     ["airport"] = {
-        coords = vector4(-760.32, 5588.68, 36.71, 229.59),
+        coords = vector4(-952.02, -2753.21, 13.76, 2.32),
         location = "airport",
         label = "LS Airport",
     },
