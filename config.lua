@@ -2,7 +2,7 @@ QB = {}
 
 QB.Spawns = {
     ["legion"] = {
-        coords = vector4(161.4, -963.98, 30.66, 34.8),
+        coords = vector4(121.67, -879.72, 31.12, 248.88),
         location = "legion",
         label = "Legion Square",
     },
